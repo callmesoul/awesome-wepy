@@ -42,6 +42,7 @@
 	- [ wepy-calendar：基于wepy 的日历组件 ](https://github.com/callmesoul/wepy-calendar)
 	- [ wepy-corpper：基于wepy 的图片裁剪组件 ](https://github.com/callmesoul/wepy-corpper)
 	- [ wepy-message：基于wepy 的类toast 消息提示 ](https://github.com/callmesoul/wepy-message)
+	- [ wepy-nices：基于wepy 的点赞动画 ](https://github.com/callmesoul/wepy-nices)
 	
 	
 - **功能类组件**
