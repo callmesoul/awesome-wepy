@@ -44,6 +44,7 @@
 	- [ wepy-corpper：基于wepy 的图片裁剪组件 ](https://github.com/callmesoul/wepy-corpper)
 	- [ wepy-message：基于wepy 的类toast 消息提示 ](https://github.com/callmesoul/wepy-message)
 	- [ wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件 ](https://github.com/Licoy/wepy-com-loadings)
+	- [ wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件 ](https://github.com/callmesoul/wepy-match-input)
 	
 - **功能类组件**
 
